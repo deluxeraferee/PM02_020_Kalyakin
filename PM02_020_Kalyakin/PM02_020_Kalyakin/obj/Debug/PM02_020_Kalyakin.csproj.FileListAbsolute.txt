@@ -1,0 +1,15 @@
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\MainWindow.g.cs
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\App.g.cs
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin_MarkupCompile.cache
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin_MarkupCompile.lref
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\bin\Debug\PM02_020_Kalyakin.exe.config
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\bin\Debug\PM02_020_Kalyakin.exe
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\bin\Debug\PM02_020_Kalyakin.pdb
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\MainWindow.baml
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.g.resources
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.Properties.Resources.resources
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.csproj.GenerateResource.cache
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.csproj.CoreCompileInputs.cache
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.exe
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.pdb
+C:\Users\208565\source\repos\PM02_020_Kalyakin\PM02_020_Kalyakin\obj\Debug\PM02_020_Kalyakin.csproj.AssemblyReference.cache
